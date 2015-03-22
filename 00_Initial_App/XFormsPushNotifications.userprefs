@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="iOS/XFormsPushNotifications.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus_5_API_21_x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XFormsPushNotifications/ViewModels/MainViewModel.cs">
+    <Files>
+      <File FileName="XFormsPushNotifications/Pages/MainPage.xaml" Line="7" Column="72" />
+      <File FileName="XFormsPushNotifications/Pages/MainPage.xaml.cs" Line="13" Column="42" />
+      <File FileName="XFormsPushNotifications/ViewModels/MainViewModel.cs" Line="32" Column="62" />
+      <File FileName="XFormsPushNotifications/ViewModels/BaseViewModel.cs" Line="12" Column="4" />
+      <File FileName="XFormsPushNotifications/AppConstants/StaticText.cs" Line="7" Column="240" />
+      <File FileName="XFormsPushNotifications/XFormsPushNotifications.cs" Line="12" Column="38" />
+      <File FileName="XFormsPushNotifications/Services/Contracts/IPushNotificationHandler.cs" Line="1" Column="1" />
+      <File FileName="Droid/Services/Real/PushNotificationHandler_Android.cs" Line="36" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
