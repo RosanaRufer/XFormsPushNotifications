@@ -1,23 +1,27 @@
 ﻿<Properties StartupItem="Droid/XFormsPushNotifications.Droid.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.02128b881158f5ce" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/Properties/AndroidManifest.xml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/MainActivity.cs">
     <Files>
-      <File FileName="XFormsPushNotifications/AppConstants/Keys.cs" Line="3" Column="47" />
-      <File FileName="XFormsPushNotifications/Helpers/CrossPushNotificationListener.txt" Line="19" Column="10" />
-      <File FileName="XFormsPushNotifications/Services/CrossPushNotificationListener.cs" Line="12" Column="4" />
-      <File FileName="XFormsPushNotifications/Properties/AssemblyInfo.cs" Line="12" Column="41" />
-      <File FileName="Droid/MainActivity.cs" Line="25" Column="100" />
-      <File FileName="Droid/PushNotificationStarted.txt" Line="34" Column="103" />
-      <File FileName="XFormsPushNotifications/XFormsPushNotifications.cs" Line="12" Column="38" />
-      <File FileName="Droid/Properties/AndroidManifest.xml" Line="6" Column="12" />
+      <File FileName="XFormsPushNotifications/AppConstants/Keys.cs" Line="8" Column="3" />
+      <File FileName="XFormsPushNotifications/Helpers/CrossPushNotificationListener.txt" Line="1" Column="1" />
+      <File FileName="XFormsPushNotifications/Services/CrossPushNotificationListener.cs" Line="20" Column="63" />
+      <File FileName="XFormsPushNotifications/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="Droid/MainActivity.cs" Line="30" Column="102" />
+      <File FileName="Droid/PushNotificationStarted.txt" Line="1" Column="1" />
+      <File FileName="XFormsPushNotifications/XFormsPushNotifications.cs" Line="19" Column="1" />
+      <File FileName="Droid/Properties/AndroidManifest.xml" Line="7" Column="12" />
+      <File FileName="Droid/Services/Real/PushNotificationHandler_Android.cs" Line="1" Column="1" />
+      <File FileName="XFormsPushNotifications/Pages/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="XFormsPushNotifications/ViewModels/MainViewModel.cs" Line="1" Column="1" />
+      <File FileName="XFormsPushNotifications/AppConstants/StaticText.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/Dispute/Lemoncode/PostTest/XFormsPushNotifications/01_Final_App/XFormsPushNotifications/Services/CrossPushNotificationListener.cs" line="12" column="1" />
-      <Breakpoint file="/Users/Dispute/Lemoncode/PostTest/XFormsPushNotifications/01_Final_App/XFormsPushNotifications/Services/CrossPushNotificationListener.cs" line="17" column="1" />
-      <Breakpoint file="/Users/Dispute/Lemoncode/PostTest/XFormsPushNotifications/01_Final_App/XFormsPushNotifications/Services/CrossPushNotificationListener.cs" line="22" column="1" />
-      <Breakpoint file="/Users/Dispute/Lemoncode/PostTest/XFormsPushNotifications/01_Final_App/XFormsPushNotifications/Services/CrossPushNotificationListener.cs" line="27" column="1" />
+      <Breakpoint file="/Users/Dispute/Lemoncode/PostTest/XFormsPushNotifications/01_Final_App/XFormsPushNotifications/Services/CrossPushNotificationListener.cs" line="20" column="67" />
+      <Breakpoint file="/Users/Dispute/Lemoncode/PostTest/XFormsPushNotifications/01_Final_App/XFormsPushNotifications/Services/CrossPushNotificationListener.cs" line="26" column="1" />
+      <Breakpoint file="/Users/Dispute/Lemoncode/PostTest/XFormsPushNotifications/01_Final_App/XFormsPushNotifications/Services/CrossPushNotificationListener.cs" line="31" column="1" />
+      <Breakpoint file="/Users/Dispute/Lemoncode/PostTest/XFormsPushNotifications/01_Final_App/XFormsPushNotifications/Services/CrossPushNotificationListener.cs" line="36" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

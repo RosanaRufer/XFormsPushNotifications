@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="xformspushnotifications">
-	<application>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="xformspushnotifications" android:versionCode="1" android:versionName="initial">
+	<application android:label="xformspushnotifications" android:icon="@drawable/icon">
 	</application>
 	<uses-sdk android:minSdkVersion="10" android:targetSdkVersion="21" />
 	<uses-permission android:name="android.permission.INTERNET" />

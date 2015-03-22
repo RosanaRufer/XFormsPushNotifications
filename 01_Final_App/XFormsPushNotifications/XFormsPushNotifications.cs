@@ -15,7 +15,7 @@ namespace XFormsPushNotifications
 
 		protected override void OnStart ()
 		{
-			var see = CrossPushNotification.Current;
+			CrossPushNotification.Current.Register();
 		}
 
 		protected override void OnSleep ()

@@ -8,6 +8,7 @@ using Android.Views;
 using Android.Widget;
 using Android.OS;
 using PushNotification.Plugin;
+using XFormsPushNotifications.Services;
 
 [assembly: Permission (Name = "@PACKAGE_NAME@.permission.C2D_MESSAGE")]
 [assembly: UsesPermission (Name = "@PACKAGE_NAME@.permission.C2D_MESSAGE")]
@@ -23,8 +24,6 @@ namespace XFormsPushNotifications.Droid
 	{
 		protected override void OnCreate (Bundle bundle)
 		{
-			
-
 			base.OnCreate (bundle);
 
 			global::Xamarin.Forms.Forms.Init (this, bundle);
